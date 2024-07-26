@@ -45,7 +45,7 @@ describe("nft-lend-borrow", () => {
     let vaultPDA: PublicKey;
     let vaultAuthorityPDA: PublicKey;
 
-    let collectionId = new PublicKey(
+   let collectionId = new PublicKey(
         "J1S9H3QjnRtBbbuD4HjPV6RpRhwuk4zKbxsnCHuTgh9w"
     );
 
